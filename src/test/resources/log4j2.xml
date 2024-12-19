@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration monitorInterval="30" status="WARN">
+	
+    <Properties>
+        <Property name="basePath">D:\Automation\OpencartV111\logs</Property>
+    </Properties>
+    
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+        <RollingFile name="File" fileName="${basePath}/automation.log" filePattern="${basePath}/automation-%d{yyyy:MM:dd}.log" append="true">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>               
+            </Policies>   
+        </RollingFile>
+    </Appenders>
+    
+    <Loggers>
+        <Root level="All" additivity="false">
+            <AppenderRef ref="Console" level="off"/>
+            <AppenderRef ref="File" level="debug"/>
+        </Root>
+    </Loggers>
+    
+</Configuration>

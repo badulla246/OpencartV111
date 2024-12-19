@@ -1,0 +1,57 @@
+21:42:08.036 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV111\grouping.xml"
+21:42:08.803 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpencartV111\grouping.xml
+
+21:42:27.722 [main] INFO  testCases.TC02_LoginTest - ****** Initiated the TC02_LoginTest ******
+21:42:27.912 [main] INFO  testCases.TC02_LoginTest - Clicked on the My Account Link.
+21:42:28.276 [main] INFO  testCases.TC02_LoginTest - Clicked on the Login Link...
+21:42:28.838 [main] INFO  testCases.TC02_LoginTest - Providing the Users' Email
+21:42:29.109 [main] INFO  testCases.TC02_LoginTest - Providing the Users' Password
+21:42:29.286 [main] INFO  testCases.TC02_LoginTest - Clicked on the login button.
+21:42:30.385 [main] INFO  testCases.TC02_LoginTest - My account page has successfully launched.
+21:42:30.385 [main] INFO  testCases.TC02_LoginTest - ****** Finished the TC02_LoginTest ******
+22:31:48.454 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV111\master.xml"
+22:32:04.250 [main] INFO  testCases.TC01_AccountRegistrationTest - ******** Stated TC01_AccountRegistrationTest ********
+22:32:05.422 [main] INFO  testCases.TC01_AccountRegistrationTest - Clicked on MyAccount Link...
+22:32:06.332 [main] INFO  testCases.TC01_AccountRegistrationTest - Clicked on Register Link...
+22:32:06.342 [main] INFO  testCases.TC01_AccountRegistrationTest - Providing Customer Details...
+22:32:08.971 [main] INFO  testCases.TC01_AccountRegistrationTest - Validating Expected Message
+22:32:09.128 [main] INFO  testCases.TC01_AccountRegistrationTest - "******** Finished TC01_AccountRegistrationTest ********"
+22:32:18.660 [main] INFO  testCases.TC02_LoginTest - ****** Initiated the TC02_LoginTest ******
+22:32:18.661 [main] INFO  testCases.TC02_LoginTest - Clicked on the My Account Link.
+22:32:18.854 [main] INFO  testCases.TC02_LoginTest - Clicked on the Login Link...
+22:32:19.502 [main] INFO  testCases.TC02_LoginTest - Providing the Users' Email
+22:32:19.843 [main] INFO  testCases.TC02_LoginTest - Providing the Users' Password
+22:32:20.118 [main] INFO  testCases.TC02_LoginTest - Clicked on the login button.
+22:32:21.040 [main] INFO  testCases.TC02_LoginTest - My account page has successfully launched.
+22:32:21.041 [main] INFO  testCases.TC02_LoginTest - ****** Finished the TC02_LoginTest ******
+22:55:08.526 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV111\master.xml"
+22:55:21.043 [main] INFO  testCases.TC01_AccountRegistrationTest - ******** Stated TC01_AccountRegistrationTest ********
+22:55:21.270 [main] INFO  testCases.TC01_AccountRegistrationTest - Clicked on MyAccount Link...
+22:55:22.206 [main] INFO  testCases.TC01_AccountRegistrationTest - Clicked on Register Link...
+22:55:22.219 [main] INFO  testCases.TC01_AccountRegistrationTest - Providing Customer Details...
+22:55:24.778 [main] INFO  testCases.TC01_AccountRegistrationTest - Validating Expected Message
+22:55:24.872 [main] INFO  testCases.TC01_AccountRegistrationTest - "******** Finished TC01_AccountRegistrationTest ********"
+22:55:37.323 [main] INFO  testCases.TC02_LoginTest - ****** Initiated the TC02_LoginTest ******
+22:55:37.324 [main] INFO  testCases.TC02_LoginTest - Clicked on the My Account Link.
+22:55:37.502 [main] INFO  testCases.TC02_LoginTest - Clicked on the Login Link...
+22:55:38.014 [main] INFO  testCases.TC02_LoginTest - Providing the Users' Email
+22:55:38.288 [main] INFO  testCases.TC02_LoginTest - Providing the Users' Password
+22:55:38.484 [main] INFO  testCases.TC02_LoginTest - Clicked on the login button.
+22:55:39.536 [main] INFO  testCases.TC02_LoginTest - My account page has successfully launched.
+22:55:39.537 [main] INFO  testCases.TC02_LoginTest - ****** Finished the TC02_LoginTest ******
+23:15:33.321 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation\OpencartV111\master.xml"
+23:15:51.314 [main] INFO  testCases.TC01_AccountRegistrationTest - ******** Stated TC01_AccountRegistrationTest ********
+23:15:52.212 [main] INFO  testCases.TC01_AccountRegistrationTest - Clicked on MyAccount Link...
+23:15:53.420 [main] INFO  testCases.TC01_AccountRegistrationTest - Clicked on Register Link...
+23:15:53.456 [main] INFO  testCases.TC01_AccountRegistrationTest - Providing Customer Details...
+23:15:58.269 [main] INFO  testCases.TC01_AccountRegistrationTest - Validating Expected Message
+23:15:58.588 [main] INFO  testCases.TC01_AccountRegistrationTest - "******** Finished TC01_AccountRegistrationTest ********"
+23:16:07.202 [main] INFO  testCases.TC02_LoginTest - ****** Initiated the TC02_LoginTest ******
+23:16:07.203 [main] INFO  testCases.TC02_LoginTest - Clicked on the My Account Link.
+23:16:07.399 [main] INFO  testCases.TC02_LoginTest - Clicked on the Login Link...
+23:16:08.066 [main] INFO  testCases.TC02_LoginTest - Providing the Users' Email
+23:16:08.326 [main] INFO  testCases.TC02_LoginTest - Providing the Users' Password
+23:16:08.499 [main] INFO  testCases.TC02_LoginTest - Clicked on the login button.
+23:16:09.675 [main] INFO  testCases.TC02_LoginTest - My account page has successfully launched.
+23:16:09.675 [main] INFO  testCases.TC02_LoginTest - ****** Finished the TC02_LoginTest ******
