@@ -7,6 +7,7 @@ D:\Automation\OpencartV111\src\test\java\testBase\BaseClass.java
 D:\Automation\OpencartV111\src\test\java\testCases\TC01_AccountRegistrationTest.java
 D:\Automation\OpencartV111\src\test\java\testCases\TC02_LoginTest.java
 D:\Automation\OpencartV111\src\test\java\testCases\TC03_LoginDDT.java
+D:\Automation\OpencartV111\src\test\java\testCases\TC04_Search.java
 D:\Automation\OpencartV111\src\test\java\utilities\DataProviders.java
 D:\Automation\OpencartV111\src\test\java\utilities\ExcelUtility.java
 D:\Automation\OpencartV111\src\test\java\utilities\ExtentReportManager.java
